@@ -2,16 +2,14 @@
 
 Selamat datang di repository **PHP Challenges**! 🎉
 
-Di sini, kamu akan menemukan rangkaian tantangan PHP yang diambil dari [w3resource PHP Exercises](https://www.w3resource.com/php-exercises/challenges/1/php-challenges-1-exercise-1.php), yang dirancang untuk membantu kamu memperdalam pemahaman tentang PHP dengan cara yang menyenangkan dan interaktif.
+Ini adalah rangkaian tantangan PHP yang diambil dari [w3resource PHP Exercises](https://www.w3resource.com/php-exercises/challenges/1/php-challenges-1-exercise-1.php).
 
-## Apa yang ada di dalam repo ini?
+## Apa yang Ada di Dalam Repo Ini?
 
-- Kumpulan tantangan PHP dengan berbagai level kesulitan
-- Setiap tantangan dilengkapi dengan penjelasan soal dan solusi untuk referensi
-- Fokus pada praktik langsung dan penerapan konsep PHP
+- Kumpulan tantangan PHP dengan berbagai level kesulitan.
+- Setiap tantangan dilengkapi dengan soal dan solusi untuk referensi.
+- Fokus pada latihan praktis dan penerapan konsep PHP.
 
-## Cara Berpartisipasi
+## License
 
-1. **Clone repository ini**:
-   ```bash
-   git clone https://github.com/username/php-challenges.git
+Distributed under the MIT License. See `LICENSE` for more information.
