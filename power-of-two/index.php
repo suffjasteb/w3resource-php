@@ -8,6 +8,6 @@ function validationNumber($n) {
     }
 }
 
-validationNumber(3);
-validationNumber(10);
+validationNumber(3); // 3 is ganjil
+validationNumber(10); // 10 is genap
 ?>
