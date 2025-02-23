@@ -8,6 +8,7 @@ function validationNumber($n) {
     }
 }
 
+
 validationNumber(3);  // 3 is not power of 2
 validationNumber(4);  // 4 is power of 2
 validationNumber(10); // 10 is not power of 2
